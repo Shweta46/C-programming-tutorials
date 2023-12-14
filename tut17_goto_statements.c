@@ -17,6 +17,7 @@ int main(int argc, char const *argv[])
     //     printf("We are at end\n");
     for (int i = 0; i < 8; i++)
     {
+        
         printf("%d\n", i);
         for (int j = 0; j < 8; j++)
         {
@@ -25,11 +26,11 @@ int main(int argc, char const *argv[])
             if (num==0)
             {
                 goto end;
-                break; 
+                // break; 
             }
             
         }
-        
+
     }
     end:
     return 0;

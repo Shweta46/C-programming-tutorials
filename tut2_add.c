@@ -11,4 +11,3 @@ int main(int argc, char const *argv[])
     printf("Sum is %d\n", a+b);
     return 0;
 }
- 

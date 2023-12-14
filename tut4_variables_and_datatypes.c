@@ -8,7 +8,7 @@ e.g., int a, b, c, d; and initialisation e.g., int a=5;
 ------Rules for defining a variable in C:
 can contain alphabets, digits, and underscore
 can start with alphabet and underscore only
-no whitespace and reserved keywords is allowed
+no whitespace and reserved keywords are allowed
 
 --------------------DATA TYPES--------------------
 

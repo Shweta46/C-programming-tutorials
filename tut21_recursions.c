@@ -13,7 +13,6 @@ Any problem that can be solved iteratively can also be solved recursively. Howev
 1. The case at which the function doesnt recure is called the base case.
 2. The instances where the function keeps calling itself to perform a subtask, is called a recursive case.
 3. For factorial calculation the base case occurs at the parameter value of 0 and 1 both of whose factorial is 1.
-
 */
 #include <stdio.h>
 int factorial(int number)
